@@ -1,0 +1,23 @@
+/* .dx-overlay-content {
+  background-color: lightgray;
+} */
+/* #view {
+  margin-left: 10px;
+  margin-top: 10px;
+} */
+
+body {
+  margin: 0;
+}
+
+/* .drawer {
+  background-color: #2a2a2a;
+} */
+
+.dx-list-item-icon {
+  margin-right: 10px;
+}
+
+.content {
+  margin: 20px;
+}
